@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoTestManager">
+    <enabled-run-configurations>
+      <run-configuration type="PHPUnitRunConfigurationType" name="ShipFactoryTest" />
+      <run-configuration type="PHPUnitRunConfigurationType" name="Rerun Failed Tests" />
+      <run-configuration type="PHPUnitRunConfigurationType" name="ShipTest.testDestroyState" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52248af3-d3ab-46e1-b49d-d0f0fc76d39e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Battleship.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Battleship/Battleship.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="57" column="48" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="48" />
+              <folding>
+                <element signature="e#29#62#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Battleship/User/Player.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-358">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#34#53#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShipFactoryTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="36" column="80" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="80" />
+              <folding>
+                <element signature="e#39#65#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Battle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Battleship/Battle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding>
+                <element signature="e#28#59#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Core.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App/Core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+              <folding>
+                <element signature="e#22#49#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShipFactory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Battleship/Ship/ShipFactory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="140" column="9" lean-forward="true" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ship.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Battleship/Ship/Ship.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-344">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShipTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/Battleship/Ship/ShipTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <element signature="e#152#178#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkMap</find>
+      <find>class TestCase</find>
+      <find>addShip</find>
+      <find>fleet</find>
+      <find>addShipToMap</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/vendor</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BattleshipInterface.php" />
+        <option value="$PROJECT_DIR$/src/Battleship.php" />
+        <option value="$PROJECT_DIR$/src/Event.php" />
+        <option value="$PROJECT_DIR$/src/EventInterface.php" />
+        <option value="$PROJECT_DIR$/src/ObserverInterface.php" />
+        <option value="$PROJECT_DIR$/src/Player.php" />
+        <option value="$PROJECT_DIR$/src/PlayerInterface.php" />
+        <option value="$PROJECT_DIR$/src/Ship.php" />
+        <option value="$PROJECT_DIR$/src/SubjectInterface.php" />
+        <option value="$PROJECT_DIR$/src/Core.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/Player.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/Core.php" />
+        <option value="$PROJECT_DIR$/src/Observer/EventInterface.php" />
+        <option value="$PROJECT_DIR$/src/Observer/ObserverInterface.php" />
+        <option value="$PROJECT_DIR$/src/Observer/SubjectInterface.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/ShipFactory.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/User/PlayerInterface.php" />
+        <option value="$PROJECT_DIR$/src/Observer/Event.php" />
+        <option value="$PROJECT_DIR$/phpunit.bat" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/bootstrap.php" />
+        <option value="$PROJECT_DIR$/tests/bootstrap.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Battleship/Damage.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/Ship/ShipFactory.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/BattleshipInterface.php" />
+        <option value="$PROJECT_DIR$/tests/Battleship/Ship/Ship.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/Ship/Ship.php" />
+        <option value="$PROJECT_DIR$/tests/Battleship/Ship/ShipTest.php" />
+        <option value="$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/Buttle.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/Battleship.php" />
+        <option value="$PROJECT_DIR$/src/Battleship/User/Player.php" />
+        <option value="$PROJECT_DIR$/src/App/Core.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="/usr/local/Cellar/phpunit/8.0.2" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bottleship" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bottleship" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/src/Battleship/Ship" />
+      <recent name="$PROJECT_DIR$/src/Observer" />
+      <recent name="$PROJECT_DIR$/src/App" />
+      <recent name="$PROJECT_DIR$/src/Battleship/User" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.ShipFactoryTest.testAddDestroyActionSaccess">
+    <configuration name="ShipFactoryTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="test\Battleship\Ship\ShipFactoryTest" file="$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php" scope="Class" />
+    </configuration>
+    <configuration name="ShipFactoryTest.testAddDestroyActionSaccess" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="test\Battleship\Ship\ShipFactoryTest" file="$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php" method="testAddDestroyActionSaccess" scope="Method" />
+    </configuration>
+    <configuration name="ShipFactoryTest.testAddHitActionSaccess" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="test\Battleship\Ship\ShipFactoryTest" file="$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php" method="testAddHitActionSaccess" scope="Method" />
+    </configuration>
+    <configuration name="ShipFactoryTest.testAddMissActionSaccess" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="test\Battleship\Ship\ShipFactoryTest" file="$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php" method="testAddMissActionSaccess" scope="Method" />
+    </configuration>
+    <configuration name="ShipFactoryTest.testAddShipToMapToAnotherShip" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="test\Battleship\Ship\ShipFactoryTest" file="$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php" method="testAddShipToMapToAnotherShip" scope="Method" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.ShipFactoryTest" />
+      <item itemvalue="PHPUnit.ShipFactoryTest.testAddShipToMapToAnotherShip" />
+      <item itemvalue="PHPUnit.ShipFactoryTest.testAddMissActionSaccess" />
+      <item itemvalue="PHPUnit.ShipFactoryTest.testAddHitActionSaccess" />
+      <item itemvalue="PHPUnit.ShipFactoryTest.testAddDestroyActionSaccess" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ShipFactoryTest.testAddDestroyActionSaccess" />
+        <item itemvalue="PHPUnit.ShipFactoryTest.testAddHitActionSaccess" />
+        <item itemvalue="PHPUnit.ShipFactoryTest.testAddMissActionSaccess" />
+        <item itemvalue="PHPUnit.ShipFactoryTest.testAddShipToMapToAnotherShip" />
+        <item itemvalue="PHPUnit.ShipFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52248af3-d3ab-46e1-b49d-d0f0fc76d39e" name="Default" comment="" />
+      <created>1549900222357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549900222357</updated>
+      <workItem from="1549900223448" duration="39005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ShipTest_testDestroyState - 2019.02.12 at 13h 39m 16s.xml">
+      <configuration name="ShipTest.testDestroyState" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest - 2019.02.12 at 13h 40m 22s.xml">
+      <configuration name="ShipFactoryTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest - 2019.02.12 at 13h 41m 42s.xml">
+      <configuration name="ShipFactoryTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest - 2019.02.12 at 13h 41m 47s.xml">
+      <configuration name="ShipFactoryTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest - 2019.02.12 at 13h 41m 50s.xml">
+      <configuration name="ShipFactoryTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest - 2019.02.12 at 13h 43m 06s.xml">
+      <configuration name="ShipFactoryTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest_testAddShipToMapToAnotherShip - 2019.02.12 at 13h 43m 16s.xml">
+      <configuration name="ShipFactoryTest.testAddShipToMapToAnotherShip" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest_testAddMissActionSaccess - 2019.02.12 at 13h 45m 12s.xml">
+      <configuration name="ShipFactoryTest.testAddMissActionSaccess" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest_testAddHitActionSaccess - 2019.02.12 at 13h 45m 47s.xml">
+      <configuration name="ShipFactoryTest.testAddHitActionSaccess" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="ShipFactoryTest_testAddDestroyActionSaccess - 2019.02.12 at 13h 46m 40s.xml">
+      <configuration name="ShipFactoryTest.testAddDestroyActionSaccess" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3927273" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33818182" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499002" visible="true" weight="0.14449213" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" sideWeight="0.500998" side_tool="true" weight="0.14449213" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>16</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Observer/EventInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Observer/ObserverInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Observer/SubjectInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/User/PlayerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.phar">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="75" lean-forward="true" selection-start-line="4" selection-end-line="6" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Battleship/Ship/.phpunit.result.cache">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Observer/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/Damage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/BattleshipInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Battleship/Ship/ShipTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#152#178#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Battleship/Ship/ShipFactoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="36" column="80" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="80" />
+          <folding>
+            <element signature="e#39#65#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/Battle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#28#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/Ship/ShipFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="140" column="9" lean-forward="true" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/Ship/Ship.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/User/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-358">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#34#53#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Battleship/Battleship.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="57" column="48" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="48" />
+          <folding>
+            <element signature="e#29#62#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+          <folding>
+            <element signature="e#22#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^8.0",
+        "mockery/mockery": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Battleship\\": "src/Battleship",
+            "App\\": "src/App",
+            "Observer\\": "src/Observer"
+        }
+    }
+}
